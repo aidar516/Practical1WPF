@@ -1,0 +1,40 @@
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.csproj.AssemblyReference.cache
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\App.g.cs
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1_MarkupCompile.cache
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.exe
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.deps.json
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.runtimeconfig.json
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.dll
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.pdb
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.g.resources
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.AssemblyInfoInputs.cache
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.AssemblyInfo.cs
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.csproj.CoreCompileInputs.cache
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.dll
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\refint\шарпы1.dll
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.pdb
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.genruntimeconfig.cache
+D:\2 курс\Основы Алгоритмизации s sharp\шарпы1\шарпы1\obj\Debug\net6.0-windows\ref\шарпы1.dll
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.exe
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.deps.json
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.runtimeconfig.json
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.dll
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\bin\Debug\net6.0-windows\шарпы1.pdb
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.csproj.AssemblyReference.cache
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1_MarkupCompile.cache
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.g.resources
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.AssemblyInfoInputs.cache
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.AssemblyInfo.cs
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.csproj.CoreCompileInputs.cache
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.dll
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\refint\шарпы1.dll
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.pdb
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\шарпы1.genruntimeconfig.cache
+C:\Users\valiu\Downloads\Telegram Desktop\шарпы1\шарпы1\шарпы1\obj\Debug\net6.0-windows\ref\шарпы1.dll
